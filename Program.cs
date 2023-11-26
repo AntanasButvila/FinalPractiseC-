@@ -11,7 +11,7 @@
 // {
 //     if(start < 0 || end < 0)
    
-//    return ("Вы ввели не нантуральное число!!! Попробуйте снова.").ToString();
+//    return ("Вы ввели не натуральное число!!! Попробуйте снова.").ToString();
        
     
 //     if(start == end) return start.ToString();

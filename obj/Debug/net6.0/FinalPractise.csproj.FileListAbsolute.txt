@@ -1,0 +1,15 @@
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\bin\Debug\net6.0\FinalPractise.exe
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\bin\Debug\net6.0\FinalPractise.deps.json
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\bin\Debug\net6.0\FinalPractise.runtimeconfig.json
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\bin\Debug\net6.0\FinalPractise.dll
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\bin\Debug\net6.0\FinalPractise.pdb
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.csproj.AssemblyReference.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.AssemblyInfoInputs.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.AssemblyInfo.cs
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.csproj.CoreCompileInputs.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.dll
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\refint\FinalPractise.dll
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.pdb
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\FinalPractise.genruntimeconfig.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\FinalPractise\obj\Debug\net6.0\ref\FinalPractise.dll
